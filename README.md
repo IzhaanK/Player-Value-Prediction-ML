@@ -1,6 +1,6 @@
 **Project Description:**
 
-As a dedicated data scientist, I ventured into the world of sports analytics with three diverse projects, blending machine learning, exploratory data analysis, and a bit of fun comparison between two football legends. Here’s a glimpse into each of these exciting projects:
+As a football enthusiast, I worked on three unique projects that combine machine learning, exploratory data analysis and player comparison to gain deeper insights into the world of football. These projects aim to provide data-driven solutions for player valuation, performance comparison and exploratory analysis.
 
 ### 1. **Player Market Value Prediction:**
 In this project, I developed a machine learning model to predict football players' market values based on various performance metrics and attributes. Using advanced regression algorithms like Random Forest and XGBoost, I built a robust system that evaluates player attributes to estimate their market worth with high accuracy.
