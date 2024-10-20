@@ -1,5 +1,5 @@
 **Project Description:**
-https://rare-gallery.com/126546-cristiano-ronaldo-fifa-18-4k.html
+https://rare-gallery.com/thumbs/126546-cristiano-ronaldo-fifa-18-4k.jpg
 As a football enthusiast, I worked on three unique projects that combine machine learning, exploratory data analysis and player comparison to gain deeper insights into the world of football. These projects aim to provide data-driven solutions for player valuation, performance comparison and exploratory analysis.
 
 ### 1. **Player Market Value Prediction:**
